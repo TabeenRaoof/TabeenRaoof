@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TabeenRaoof
-- 👀 I’m interested in developing my coding skills
-- 🌱 I’m currently learning CS50 at Harvard
+- 👀 Data Science and AI
+- 🌱 Working on my coding skills
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me at raoof.tabeen@gmail.com
 
