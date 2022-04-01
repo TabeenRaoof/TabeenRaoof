@@ -1,8 +1,5 @@
 # Tabeen Raoof Portfolio 
-
-
-The projects below are part of the 25 projects that I worked on for my Harvard CS50 Course
-
+<br>
 
 **Project 1: Readability Classifier**
 
@@ -11,7 +8,7 @@ The projects below are part of the 25 projects that I worked on for my Harvard C
 - It makes the computation using the Coleman-Liau index. 
 
 Languages & Frameworks: Python
-
+<br><br>
 
 **Project 2: Stockbroker Simulator**
 
@@ -20,7 +17,7 @@ Languages & Frameworks: Python
 - Users cannot invest real money but each new user gets a virtual $10k to use for investment
 
 Languages & Frameworks: Python; Flask; SQL
-
+<br><br>
 
 **Project 3: Investment Forecast**
 
@@ -29,11 +26,13 @@ Languages & Frameworks: Python; Flask; SQL
 - The calculator makes very rough estimates and by no means accurate
 
 Languages & Frameworks: JavaScript; Flask; HTML; CSS
+<br><br>
 
 **Project 4: Finding the Theif**
 - This is a project to find the person that stole a duck (CS50’s duck to be specific)
 - The thief should be looked for using SQL to query through multiple tables of large and small datasets.
 - The queries used were from simple to more complex including nested queries, joining 2-3 tables etc.
+<br><br>
 
 Languages & Frameworks: SQL
 
@@ -43,3 +42,4 @@ Languages & Frameworks: SQL
 - This is the final project for the course
 
 Languages & Frameworks: Python; Flask; HTML; CSS
+<br><br>
