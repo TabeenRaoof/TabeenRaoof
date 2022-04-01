@@ -9,7 +9,7 @@
 
 Languages & Frameworks: Python
 
-![](https://github.com/TabeenRaoof/TabeenRaoof/blob/main/images/Readability.png)
+![](/images/Readability.png)
 <br><br>
 
 **[Project 2: Stockbroker Simulator](https://github.com/code50/71104701/tree/main/cs50/finance/StockBroker)**
@@ -20,7 +20,7 @@ Languages & Frameworks: Python
 
 Languages & Frameworks: Python; Flask; SQL
 
-![](https://github.com/TabeenRaoof/TabeenRaoof/blob/main/images/StockBroker.png)
+![](/images/StockBroker.png)
 <br><br>
 
 **[Project 3: Investment Forecast](https://github.com/code50/71104701/tree/main/cs50/pset8/homepage/InvestmentForecast)**
@@ -31,7 +31,7 @@ Languages & Frameworks: Python; Flask; SQL
 
 Languages & Frameworks: JavaScript; Flask; HTML; CSS
 
-![](https://github.com/TabeenRaoof/TabeenRaoof/blob/main/images/InvestmentCalculator.png)
+![](/images/InvestmentCalculator.png)
 <br><br>
 
 **[Project 4: Finding the Theif](https://github.com/code50/71104701/tree/main/cs50/pset7/fiftyville/FindTheTheif)**
@@ -49,5 +49,5 @@ Languages & Frameworks: SQL
 
 Languages & Frameworks: Python; Flask; HTML; CSS
 
-![](https://github.com/TabeenRaoof/TabeenRaoof/blob/main/images/BreakEven_Calculator.png)
+![](/main/images/BreakEven_Calculator.png)
 <br><br>
