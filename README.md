@@ -49,5 +49,6 @@ Languages & Frameworks: SQL
 
 Languages & Frameworks: Python; Flask; HTML; CSS
 
-![](/main/images/BreakEven_Calculator.png)
+![](/images/BreakEven_Calculator.png)
+
 <br><br>
