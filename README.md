@@ -8,6 +8,8 @@
 - It makes the computation using the Coleman-Liau index. 
 
 Languages & Frameworks: Python
+
+![](https://github.com/TabeenRaoof/TabeenRaoof/blob/main/images/Readability.png)
 <br><br>
 
 **[Project 2: Stockbroker Simulator](https://github.com/code50/71104701/tree/main/cs50/finance/StockBroker)**
@@ -17,6 +19,8 @@ Languages & Frameworks: Python
 - Users cannot invest real money but each new user gets a virtual $10k to use for investment
 
 Languages & Frameworks: Python; Flask; SQL
+
+![](https://github.com/TabeenRaoof/TabeenRaoof/blob/main/images/StockBroker.png)
 <br><br>
 
 **[Project 3: Investment Forecast](https://github.com/code50/71104701/tree/main/cs50/pset8/homepage/InvestmentForecast)**
@@ -26,6 +30,8 @@ Languages & Frameworks: Python; Flask; SQL
 - The calculator makes very rough estimates and by no means accurate
 
 Languages & Frameworks: JavaScript; Flask; HTML; CSS
+
+![](https://github.com/TabeenRaoof/TabeenRaoof/blob/main/images/InvestmentCalculator.png)
 <br><br>
 
 **[Project 4: Finding the Theif](https://github.com/code50/71104701/tree/main/cs50/pset7/fiftyville/FindTheTheif)**
@@ -34,7 +40,7 @@ Languages & Frameworks: JavaScript; Flask; HTML; CSS
 - The queries used were from simple to more complex including nested queries, joining 2-3 tables etc.
 
 Languages & Frameworks: SQL
-<br><br>
+<br><br><br><br>
 
 **[Project 5: Breakeven Calculator](https://github.com/code50/71104701/tree/main/cs50/project/BreakevenCalculator)**
 - Web application to calculate a breakeven point for a product
@@ -42,4 +48,6 @@ Languages & Frameworks: SQL
 - This is the final project for the course
 
 Languages & Frameworks: Python; Flask; HTML; CSS
+
+![](https://github.com/TabeenRaoof/TabeenRaoof/blob/main/images/BreakEven_Calculator.png)
 <br><br>
