@@ -34,7 +34,7 @@ Languages & Frameworks: JavaScript; Flask; HTML; CSS
 ![](/images/InvestmentCalculator.png)
 <br><br>
 
-**[Project 4: Finding the Theif](https://github.com/code50/71104701/tree/main/cs50/pset7/fiftyville/FindTheTheif)**
+**[Project 4: Finding the Thief](https://github.com/code50/71104701/tree/main/cs50/pset7/fiftyville/FindTheTheif)**
 - This is a project to find the person that stole a duck (CS50’s duck to be specific)
 - The thief should be looked for using SQL to query through multiple tables of large and small datasets.
 - The queries used were from simple to more complex including nested queries, joining 2-3 tables etc.
