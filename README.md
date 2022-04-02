@@ -1,5 +1,3 @@
-# Tabeen Raoof Portfolio 
-<br>
 
 **[Project 1: Readability](https://github.com/TabeenRaoof/CS50project/tree/main/portfolio/Readability)**
 
