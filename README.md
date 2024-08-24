@@ -58,6 +58,9 @@ Languages & Frameworks: Python; Flask; HTML; CSS
 
 Languages & Frameworks: Python; matplotlib; unit testing
 
-![](/images/BreakEven_Calculator.png)
+![](/images/stk_ratio1.png)
+
+![](/images/stk_ratio2.png)
+
 
 <br><br>
